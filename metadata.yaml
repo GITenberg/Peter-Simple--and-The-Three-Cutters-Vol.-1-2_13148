@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/627
     wikipedia: http://en.wikipedia.org/wiki/Frederick_Marryat
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13148#Peter-Simple--and-The-Three-Cutters-Vol.-1-2
 gutenberg_issued: '2004-08-09'
 gutenberg_type: Text
 identifiers:
