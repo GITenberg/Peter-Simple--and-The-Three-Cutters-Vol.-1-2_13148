@@ -1,0 +1,36 @@
+_repo: Peter-Simple--and-The-Three-Cutters-Vol.-1-2_13148
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marryat, Frederick
+    aliases:
+    - Marryat, Kapitein
+    - Marryat, F. W. (Frederick W.)
+    - Marryatt, Captain
+    - Marryat, Captain
+    birthdate: 1792
+    deathdate: 1848
+    gutenberg_agent_id: '627'
+    url: http://www.gutenberg.org/2009/agents/627
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_Marryat
+description: ''
+gutenberg_issued: '2004-08-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13148'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sea stories, English'
+- !lcsh 'Great Britain -- History, Naval -- 19th century -- Fiction'
+- !lcsh 'Smugglers -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Midshipmen -- Fiction'
+- !lcsh 'Napoleonic Wars, 1800-1815 -- Fiction'
+title: Peter Simple; and, The Three Cutters, Vol. 1-2
+url: http://www.gutenberg.org/ebooks/13148
